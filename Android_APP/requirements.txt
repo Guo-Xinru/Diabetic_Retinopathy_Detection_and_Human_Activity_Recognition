@@ -1,0 +1,6 @@
+tensorflow
+kivy
+buildozer
+plyer
+numpy
+Cython

@@ -1,0 +1,16 @@
+absl-py==1.3.0
+gin-config==0.3.0
+numpy
+tensorflow
+tensorflow-datasets
+opencv-python
+pandas
+matplotlib
+tensorboard
+app
+einops
+fastprogress
+wandb
+scikit-learn
+kivy
+buildozer
